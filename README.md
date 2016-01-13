@@ -10,6 +10,8 @@ https://github.com/colored-console/colored-console/wiki/Quickstart
 
 http://dejanstojanovic.net/aspnet/2015/may/powerconsole-extension-to-systemconsole/
 
+http://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
+
 http://serilog.net/
 
 https://github.com/bendetat/mickeysmith/blob/master/src/JsonDatabaseTestbed/Cmd.cs
